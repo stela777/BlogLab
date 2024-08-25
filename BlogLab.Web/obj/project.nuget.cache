@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "x9f6VVFzz2ul+tVBJcJw6KJ0a1XKePePi3HSyAxB22Jy6QWPt5/uSlkCMZoikZUjeuFdqNt7cG3ZkXzsefORSA==",
+  "dgSpecHash": "UEr3MbXFrXicZX0Yka508zMRD9qhu+/DNuZ3EOpkIOW+KyCQrf4N4CIjGeXJ6ZulzZdSmXzpJb68wyPSzdP+7Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\stela\\OneDrive\\Desktop\\BlogLab\\BlogLab.Web\\BlogLab.Web.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\stela\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
